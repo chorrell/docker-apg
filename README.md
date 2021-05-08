@@ -1,5 +1,7 @@
 # docker-apg
 
+[![Docker](https://github.com/chorrell/docker-apg/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/chorrell/docker-apg/actions/workflows/docker-publish.yml)
+
 A docker image for apg
 
 ## Usage with Docker run
