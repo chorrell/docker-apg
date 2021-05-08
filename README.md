@@ -46,6 +46,21 @@ Add this to your `.bashrc` or `.zshrc` file:
 alias apg='docker run -i --rm apg'
 ```
 
+## Using the Docker Hub image
+
+The lateset version of this image is published to the Docker Hub. You can use it like this:
+
+```sh
+docker pull chorrell/apg:latest
+
+docker run -i --rm chorrell/apg:latest
+```
+
+And setup an alias like this:
+
+```bash
+alias apg='docker run -i --rm chorrell/apg:latest'
+
 ## Using the GitHub Container Registry image
 
 The lateset version of this image is published to the GitHub Container Registry. You can use it like this:
