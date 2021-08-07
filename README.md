@@ -62,6 +62,7 @@ And setup an alias like this:
 
 ```bash
 alias apg='docker run -i --rm chorrell/apg:latest'
+```
 
 ## Using the GitHub Container Registry image
 
